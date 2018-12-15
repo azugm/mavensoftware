@@ -1,0 +1,18 @@
+command to create maven project
+mvn archetype:generate -DgroupId=com.simplilern -DartifactId=lvcgenerator -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+mvn archetype:generate -DgroupId=com.simplilern -DartifactId=lvcgenerator -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+interactive
+
+
+
+ol
+http://mirrors.wuchna.com/apachemirror/maven/maven-3/3.6.0/binaries/apache-maven-3.6.0-bin.tar.gz
+
+
+Automatic Deployment----tomcat
+https://archive.apache.org/dist/tomcat/tomcat-7/v7.0.42/bin/apache-tomcat-7.0.42.tar.gz
+
+
+
